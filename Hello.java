@@ -1,7 +1,0 @@
-package com.example.SpringTest;
-
-public class Hello {
-    public static void main(String[] args) {
-        System.out.println("hey");
-    }
-}
